@@ -3,6 +3,8 @@
 * Tarayıcınızda Mapin Otomatik Açılması
 * Açık Kaynak Olması
 * Free Api Kullanılması
+* Gerçek konuma yakın tespit yapılması
+* Haritada pin ile işaretlenmesi
 
 # Kendi ip adresinizi nasıl bulursunuz?
 * Kendi ip adresinizi bulmak için locallhost.com a gidin orada yazar.
