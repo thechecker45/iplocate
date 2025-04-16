@@ -9,6 +9,20 @@
 # Kendi ip adresinizi nasıl bulursunuz?
 * Kendi ip adresinizi bulmak için locallhost.com a gidin orada yazar.
 
+# KURULUM
+* Uygulamayı Çalıştırmak için pythonun cihazınızda kurulu olması gerekir
+* Kurulu değilse [Buradan](https://www.python.org/downloads/) Pythonu indirin
+
+* Terminale
+```
+pip install -r requirements.txt
+```
+* Komudunu yazın ve indirmeye başlayacaktır sonrasında aynı dizine
+```
+python iplocate.py
+```
+* Komudunu yazın ve Kullanın
+
 # Kullanım
 * Programımızı açtıktan sonra
 ```
