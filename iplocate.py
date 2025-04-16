@@ -22,9 +22,6 @@ banner = (Fore.RED + r"""
           
 """)
 
-print(banner)
-
-# Colorama'yı başlat
 init(autoreset=True)
 
 TOKEN = "8420333b445024"
@@ -65,9 +62,9 @@ def ip_gecerli_mi(ip):
 
 def ekran_temizle():
     system("cls" if name == "nt" else "clear")
-
-# Ana döngü
+    
 while True:
+    print(banner)
     ip_adresi = input(Fore.RESET + "IP adresini girin\n> ").strip()
 
     if ip_adresi.lower() == "q":
