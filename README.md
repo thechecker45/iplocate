@@ -18,4 +18,8 @@ IP adresinizi girin
 
 # Instagramım
 Herhangi Bir Soru Sormak İsterseniz:
-* [Instagramım](https://instagram.com/thechecker_45)
+* [instagram.com](https://instagram.com/thechecker_45)
+
+# Reklam
+* [thechecker](https://guns.lol/thechecker)
+* [kuvvetmira](https://guns.lol/kuvvetmira)
