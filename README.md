@@ -30,9 +30,10 @@ IP adresinizi girin
 ```
 * Yazacak oraya istediğiniz çalışan ip adresini girin ve sonucu görün.
 
-# Instagramım
-Herhangi Bir Soru Sormak İsterseniz:
-* [instagram.com](https://instagram.com/thechecker_45)
+# Telegram Kanalımız
+Sahte Numara Gibi Hizmetler İçin
+* [t.me/fullonay]
+* (https://t.me/fullonay)
 
 # Reklam
 * [thechecker](https://guns.lol/thechecker)
