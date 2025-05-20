@@ -8,6 +8,8 @@
 
 # Kendi ip adresinizi nasıl bulursunuz?
 * Kendi ip adresinizi bulmak için locallhost.com a gidin orada yazar.
+* Eğer Bir Modeme Bağlı Değilseniz Mobil Verinin Server Konumunu Gösterir Yani Mobil Verideki Bir Cihazın Konumu Bulmanız Çok Zor.
+
 
 # KURULUM
 * Uygulamayı Çalıştırmak için pythonun cihazınızda kurulu olması gerekir
