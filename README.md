@@ -32,8 +32,7 @@ IP adresinizi girin
 
 # Telegram Kanalımız
 Sahte Numara Gibi Hizmetler İçin
-* [t.me/fullonay]
-* (https://t.me/fullonay)
+[t.me/fullonay](https://t.me/fullonay)
 
 # Reklam
 * [thechecker](https://guns.lol/thechecker)
